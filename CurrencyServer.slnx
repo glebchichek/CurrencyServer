@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CurrencyClient/CurrencyClient.csproj" />
+  <Project Path="CurrencyServer/CurrencyServer.csproj" />
+</Solution>
